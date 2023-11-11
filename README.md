@@ -1,4 +1,4 @@
-Activity: Using Records App
+# Activity: Using Records App
 
 Create directory scripts/data_init
 Install Faker inside data_init directory
@@ -15,3 +15,6 @@ Office (50 rows)-> id, name, contactnum, email, address, city, country, postal
 Transaction (500 rows) -> id, employee_id, office_id, datelog, action, remarks, documentcode
 Random selection of FK should be from PK of reference table
 Set max value for datelog (future dates are not allowed)
+
+# April Joy Gamboa
+# Desierre Lofranco
