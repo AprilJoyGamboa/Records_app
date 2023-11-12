@@ -1,7 +1,6 @@
 <?php
 require 'vendor/autoload.php';
 
-$f = Faker\Factory::create('en_PH');
 $serverName = "localhost";
 $userName = "root";
 $dbName = 'records_app';
