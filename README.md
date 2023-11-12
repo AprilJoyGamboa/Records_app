@@ -16,5 +16,7 @@ Transaction (500 rows) -> id, employee_id, office_id, datelog, action, remarks, 
 Random selection of FK should be from PK of reference table
 Set max value for datelog (future dates are not allowed)
 
+# CRUD ACTIVITY 
+
 # April Joy Gamboa
 # Desierre Lofranco
